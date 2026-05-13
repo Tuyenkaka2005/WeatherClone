@@ -1,3 +1,5 @@
+<img width="210" alt="weather" src="https://github.com/user-attachments/assets/e3131bdc-14cf-4152-ab4c-c098416b7ce0" />
+
 # 🌤️ Weather App UI Clone — iOS SwiftUI Mastery
 
 ![iOS](https://img.shields.io/badge/iOS-16.0%2B-blue)
